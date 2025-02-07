@@ -1,0 +1,44 @@
+[
+ {
+   "question": "Какой океан является самым большим по площади?",
+   "image": "https://via.placeholder.com/300x200",
+   "answer1": "Атлантический океан",
+   "correct1": false,
+   "answer2": "Индийский океан",
+   "correct2": false,
+   "answer3": "Тихий океан",
+   "correct3": true,
+   "answer4": "Северный Ледовитый океан",
+   "correct4": false,
+   "answer5": "",
+   "correct5": ""
+ },
+ {
+   "question": "Какие из перечисленных языков являются языками программирования?",
+   "image": "https://via.placeholder.com/300x200",
+   "answer1": "Python",
+   "correct1": true,
+   "answer2": "HTML",
+   "correct2": false,
+   "answer3": "JavaScript",
+   "correct3": true,
+   "answer4": "CSS",
+   "correct4": false,
+   "answer5": "",
+   "correct5": ""
+ },
+ {
+   "question": "Где вы работаете?",
+   "image": "",
+   "answer1": "МВК",
+   "correct1": true,
+   "answer2": "Богодельня",
+   "correct2": true,
+   "answer3": "",
+   "correct3": null,
+   "answer4": "",
+   "correct4": null,
+   "answer5": "",
+   "correct5": ""
+ }
+]
